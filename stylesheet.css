@@ -3,6 +3,7 @@ body {
 }
 
 .card {
+    background-color:silver;
     padding: 10px;
     margin: 10px;
 }
@@ -14,4 +15,8 @@ body {
 
 .cardtext {
     text-align: center;
+}
+
+#project-header {
+    text-decoration: underline;
 }
